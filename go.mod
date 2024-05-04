@@ -7,7 +7,7 @@ require (
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/gobwas/glob v0.2.3
 	github.com/jessevdk/go-flags v1.5.0
-	github.com/klauspost/compress v1.15.15
+	github.com/klauspost/compress v1.17.8
 	github.com/schollz/progressbar/v3 v3.8.2
 	github.com/ulikunitz/xz v0.5.10
 )
@@ -30,7 +30,6 @@ require (
 	github.com/onsi/ginkgo/v2 v2.17.2
 	github.com/onsi/gomega v1.33.1
 	github.com/rivo/uniseg v0.2.0 // indirect
-	github.com/stretchr/testify v1.8.4 // indirect
 	golang.org/x/crypto v0.22.0 // indirect
 	golang.org/x/sys v0.19.0 // indirect
 	golang.org/x/term v0.19.0 // indirect
